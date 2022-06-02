@@ -1,3 +1,5 @@
+Jobs API built by following "Node.js / Express Course - Build 4 Projects" video.
+
 #### Setup
 
 ```bash
